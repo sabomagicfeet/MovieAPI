@@ -54,12 +54,11 @@ We have listed the acceptance criteria in two formats to help with learning.
 
 
 ---- As a feature list---
-1. User is returned a list of movies matching the criteria provided with certification suitable for their  age.  
-2. User can search for movies for the any of the following combination of criteria:
+1. User can search for movies for the any of the following combination of criteria:
    language/genre/actor/year/certification + age
-3. The user can view the list of their favourite movies
-4. The user can search the list of their favourite movies based on a criteria
-5. The user can add to their list of favourite movies
-6. The user can delete from their list of favourites. 
+2. The user can view the list of their favourite movies
+3. The user can search the list of their favourite movies based on a criteria
+4. The user can add to their list of favourite movies
+5. The user can delete from their list of favourites. 
 
 
